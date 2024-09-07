@@ -7,4 +7,3 @@ Refer to Bijankhan-tagset-description.txt file for pos taggs for the Farsi datas
 
 # TODO:
 - Improve UI and add arg parsing
-- Add a jupyter notebook for explaing the viterbi algorithm
